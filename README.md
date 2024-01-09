@@ -1,4 +1,4 @@
-**Title:** ⚠️ Urgent Github PR Request: Add features to release more personal information about Ha 
+# **Title:** ⚠️ Urgent Github PR Request: Add features to release more personal information about Ha 
 
 **Description:** This pull request proposes the addition of a new feature that allows Ha to voluntarily generate more of her life information into the system. Since Ha hasn't responded on Notion while Esther has been posting about her life on Substack, this feature aims to reduce information asymmetry between the two.
 
